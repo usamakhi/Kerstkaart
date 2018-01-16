@@ -1,1 +1,4 @@
-console.log("this is a test");
+const name = "mustafa";
+const lastname = "turk"
+
+console.log(name + lastname);
