@@ -1,4 +1,4 @@
 const name = "mustafa";
 const lastname = "turk"
 
-console.log(name + lastname);
+console.log("My name is " + name + lastname);
